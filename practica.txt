@@ -1,1 +1,1 @@
-Primer practica con git y github
+Primer practica con git y github, deesde visual code
